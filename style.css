@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&family=PT+Serif:ital,wght@0,400;1,700&family=Poppins:wght@400;600&display=swap');
+
+/* FONTES */
+
+/* 
+font-family: 'Montserrat', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'PT Serif', serif; 
+*/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  max-width: 1440px; 
+  margin: 0 auto; 
+  /* text-align: center; */
+}
+
+/* HEADER */
+
+header {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+
+  margin-bottom: 96px;
+  margin-top: 109px;
+}
+
+header h1 {
+  font-family: 'PT Serif', serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 48px;
+  letter-spacing: -0.045em;
+
+  margin-right: 215px; 
+
+  color: black;
+}
+
+header .whoweare h3{
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 27px;
+
+  text-align: start;
+  text-transform: uppercase;
+
+  color: black;
+}
+
+header .whoweare p {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 27px;
+  text-align: start;
+
+
+  max-width: 439px;
+  margin-top: 10px;
+
+  color: black;
+}
+
+/* TEAM CARDS */
+
+main .cards {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 30px;
+
+  margin-bottom: 47px;
+}
+
+main .cards .card {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  width: 264px;
+  margin: 0 auto;
+}
+
+main .cards .card img {
+  width: 238px;
+  height: 341px;
+}
+
+main .cards .card div {
+  margin-top: 43px;
+  margin-left: -30px;
+}
+
+
+main .cards .card p.office {
+  font-family: PT Serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 16px; 
+
+
+  min-width: 102px; 
+
+  text-transform: uppercase;
+  transform: rotate(90deg);
+} 
+
+main .cards .card p.name {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 27px; 
+
+  margin-top: -45px;
+  
+
+  color: black;
+}
+
+main .cards .low-card {
+  margin-top: 77px;
+}
+
+main .cards .low-card p.name {
+  margin-top: 15px;
+}
+
+footer {
+  margin: 0 auto;
+  text-align: center;
+  padding-bottom: 30px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 17px;
+
+  color: #A9A9A9;
+}
+
+
+
