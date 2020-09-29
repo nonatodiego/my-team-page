@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{nonatodiego.github.io/my-team-page/}">
+    <a href="https://nonatodiego.github.io/my-team-page/">
       Demo
     </a>
     <span> | </span>
@@ -64,5 +64,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Portfolio [Diego Nonato](https://{diegononato.netlify.app/})
-- GitHub [@nonatodiego](https://{github.com/nonatodiego})
+- Portfolio [Diego Nonato](https://diegononato.netlify.app/)
+- GitHub [@nonatodiego](https://github.com/nonatodiego)
