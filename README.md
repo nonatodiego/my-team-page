@@ -65,4 +65,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - Portfolio [Diego Nonato](https://{diegononato.netlify.app/})
-- GitHub [@your-username](https://{github.com/nonatodiego})
+- GitHub [@nonatodiego](https://{github.com/nonatodiego})
